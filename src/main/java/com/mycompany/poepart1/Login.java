@@ -10,7 +10,7 @@ package com.mycompany.poepart1;
  */
 public class Login {
     
-    //declaring variables
+    //declaring variables for clarity
     public String firstname;
     public String lastname;
      public String SAcellnum;
