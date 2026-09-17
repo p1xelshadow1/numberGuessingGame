@@ -39,6 +39,7 @@ public class LoginTest {
     /**
      * Test of checkUserName method, of class Login.
      */
+    //MY JUNIT TESTS
     @Test
     public void testCheckUserName_CorrectlyFormatted() {
         System.out.println("checkUserName");
